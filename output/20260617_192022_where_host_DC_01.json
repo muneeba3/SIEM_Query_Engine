@@ -1,0 +1,1342 @@
+[
+  {
+    "timestamp":"2026-06-16T16:46:52.161903+00:00",
+    "event_id":4720,
+    "description":"User account created",
+    "severity":"high",
+    "user":"admin",
+    "host":"DC-01",
+    "src_ip":"10.20.5.41",
+    "process":"cmd.exe"
+  },
+  {
+    "timestamp":"2026-06-16T16:58:52.161903+00:00",
+    "event_id":4698,
+    "description":"Scheduled task created",
+    "severity":"high",
+    "user":"j.morris",
+    "host":"DC-01",
+    "src_ip":"10.20.1.15",
+    "process":"explorer.exe"
+  },
+  {
+    "timestamp":"2026-06-16T17:07:52.161903+00:00",
+    "event_id":4688,
+    "description":"Process created",
+    "severity":"low",
+    "user":"svc_backup",
+    "host":"DC-01",
+    "src_ip":"10.20.5.41",
+    "process":"cmd.exe"
+  },
+  {
+    "timestamp":"2026-06-16T17:31:52.161903+00:00",
+    "event_id":4688,
+    "description":"Process created",
+    "severity":"low",
+    "user":"j.morris",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"cmd.exe"
+  },
+  {
+    "timestamp":"2026-06-16T17:37:52.161903+00:00",
+    "event_id":4625,
+    "description":"Failed logon attempt",
+    "severity":"medium",
+    "user":"a.singh",
+    "host":"DC-01",
+    "src_ip":"45.155.205.92",
+    "process":"explorer.exe"
+  },
+  {
+    "timestamp":"2026-06-16T18:04:52.161903+00:00",
+    "event_id":4624,
+    "description":"Successful logon",
+    "severity":"low",
+    "user":"guest",
+    "host":"DC-01",
+    "src_ip":"10.20.5.41",
+    "process":"powershell.exe"
+  },
+  {
+    "timestamp":"2026-06-16T18:10:52.161903+00:00",
+    "event_id":4688,
+    "description":"Process created",
+    "severity":"low",
+    "user":"svc_backup",
+    "host":"DC-01",
+    "src_ip":"10.20.1.15",
+    "process":"cmd.exe"
+  },
+  {
+    "timestamp":"2026-06-16T18:19:52.161903+00:00",
+    "event_id":4720,
+    "description":"User account created",
+    "severity":"high",
+    "user":"j.morris",
+    "host":"DC-01",
+    "src_ip":"10.20.1.15",
+    "process":"svchost.exe"
+  },
+  {
+    "timestamp":"2026-06-16T18:34:52.161903+00:00",
+    "event_id":1102,
+    "description":"Audit log cleared",
+    "severity":"critical",
+    "user":"admin",
+    "host":"DC-01",
+    "src_ip":"45.155.205.92",
+    "process":"svchost.exe"
+  },
+  {
+    "timestamp":"2026-06-16T18:40:52.161903+00:00",
+    "event_id":4688,
+    "description":"Process created",
+    "severity":"low",
+    "user":"a.singh",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"powershell.exe"
+  },
+  {
+    "timestamp":"2026-06-16T18:43:52.161903+00:00",
+    "event_id":1102,
+    "description":"Audit log cleared",
+    "severity":"critical",
+    "user":"admin",
+    "host":"DC-01",
+    "src_ip":"10.20.1.15",
+    "process":"svchost.exe"
+  },
+  {
+    "timestamp":"2026-06-16T18:52:52.161903+00:00",
+    "event_id":4698,
+    "description":"Scheduled task created",
+    "severity":"high",
+    "user":"a.singh",
+    "host":"DC-01",
+    "src_ip":"10.20.1.15",
+    "process":"svchost.exe"
+  },
+  {
+    "timestamp":"2026-06-16T18:55:52.161903+00:00",
+    "event_id":4720,
+    "description":"User account created",
+    "severity":"high",
+    "user":"admin",
+    "host":"DC-01",
+    "src_ip":"10.20.5.41",
+    "process":"explorer.exe"
+  },
+  {
+    "timestamp":"2026-06-16T19:10:52.161903+00:00",
+    "event_id":4625,
+    "description":"Failed logon attempt",
+    "severity":"medium",
+    "user":"j.morris",
+    "host":"DC-01",
+    "src_ip":"45.155.205.92",
+    "process":"explorer.exe"
+  },
+  {
+    "timestamp":"2026-06-16T19:13:52.161903+00:00",
+    "event_id":4625,
+    "description":"Failed logon attempt",
+    "severity":"medium",
+    "user":"admin",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"cmd.exe"
+  },
+  {
+    "timestamp":"2026-06-16T19:19:52.161903+00:00",
+    "event_id":4698,
+    "description":"Scheduled task created",
+    "severity":"high",
+    "user":"admin",
+    "host":"DC-01",
+    "src_ip":"45.155.205.92",
+    "process":"cmd.exe"
+  },
+  {
+    "timestamp":"2026-06-16T19:22:52.161903+00:00",
+    "event_id":4720,
+    "description":"User account created",
+    "severity":"high",
+    "user":"a.singh",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"powershell.exe"
+  },
+  {
+    "timestamp":"2026-06-16T19:25:52.161903+00:00",
+    "event_id":4720,
+    "description":"User account created",
+    "severity":"high",
+    "user":"svc_backup",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"powershell.exe"
+  },
+  {
+    "timestamp":"2026-06-16T19:37:52.161903+00:00",
+    "event_id":1102,
+    "description":"Audit log cleared",
+    "severity":"critical",
+    "user":"a.singh",
+    "host":"DC-01",
+    "src_ip":"45.155.205.92",
+    "process":"svchost.exe"
+  },
+  {
+    "timestamp":"2026-06-16T19:40:52.161903+00:00",
+    "event_id":4720,
+    "description":"User account created",
+    "severity":"high",
+    "user":"guest",
+    "host":"DC-01",
+    "src_ip":"10.20.5.41",
+    "process":"powershell.exe"
+  },
+  {
+    "timestamp":"2026-06-16T19:43:52.161903+00:00",
+    "event_id":4625,
+    "description":"Failed logon attempt",
+    "severity":"medium",
+    "user":"admin",
+    "host":"DC-01",
+    "src_ip":"10.20.1.15",
+    "process":"cmd.exe"
+  },
+  {
+    "timestamp":"2026-06-16T19:49:52.161903+00:00",
+    "event_id":4688,
+    "description":"Process created",
+    "severity":"low",
+    "user":"guest",
+    "host":"DC-01",
+    "src_ip":"10.20.5.41",
+    "process":"powershell.exe"
+  },
+  {
+    "timestamp":"2026-06-16T20:37:52.161903+00:00",
+    "event_id":1102,
+    "description":"Audit log cleared",
+    "severity":"critical",
+    "user":"j.morris",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"powershell.exe"
+  },
+  {
+    "timestamp":"2026-06-16T20:49:52.161903+00:00",
+    "event_id":4698,
+    "description":"Scheduled task created",
+    "severity":"high",
+    "user":"a.singh",
+    "host":"DC-01",
+    "src_ip":"10.20.5.41",
+    "process":"explorer.exe"
+  },
+  {
+    "timestamp":"2026-06-16T21:01:52.161903+00:00",
+    "event_id":4698,
+    "description":"Scheduled task created",
+    "severity":"high",
+    "user":"guest",
+    "host":"DC-01",
+    "src_ip":"45.155.205.92",
+    "process":"svchost.exe"
+  },
+  {
+    "timestamp":"2026-06-16T21:10:52.161903+00:00",
+    "event_id":1102,
+    "description":"Audit log cleared",
+    "severity":"critical",
+    "user":"j.morris",
+    "host":"DC-01",
+    "src_ip":"45.155.205.92",
+    "process":"cmd.exe"
+  },
+  {
+    "timestamp":"2026-06-16T21:13:52.161903+00:00",
+    "event_id":4720,
+    "description":"User account created",
+    "severity":"high",
+    "user":"svc_backup",
+    "host":"DC-01",
+    "src_ip":"45.155.205.92",
+    "process":"svchost.exe"
+  },
+  {
+    "timestamp":"2026-06-16T21:19:52.161903+00:00",
+    "event_id":4625,
+    "description":"Failed logon attempt",
+    "severity":"medium",
+    "user":"j.morris",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"explorer.exe"
+  },
+  {
+    "timestamp":"2026-06-16T21:40:52.161903+00:00",
+    "event_id":4698,
+    "description":"Scheduled task created",
+    "severity":"high",
+    "user":"guest",
+    "host":"DC-01",
+    "src_ip":"10.20.1.15",
+    "process":"cmd.exe"
+  },
+  {
+    "timestamp":"2026-06-16T21:46:52.161903+00:00",
+    "event_id":4720,
+    "description":"User account created",
+    "severity":"high",
+    "user":"a.singh",
+    "host":"DC-01",
+    "src_ip":"10.20.5.41",
+    "process":"explorer.exe"
+  },
+  {
+    "timestamp":"2026-06-16T22:04:52.161903+00:00",
+    "event_id":4624,
+    "description":"Successful logon",
+    "severity":"low",
+    "user":"svc_backup",
+    "host":"DC-01",
+    "src_ip":"10.20.1.15",
+    "process":"cmd.exe"
+  },
+  {
+    "timestamp":"2026-06-16T22:10:52.161903+00:00",
+    "event_id":4698,
+    "description":"Scheduled task created",
+    "severity":"high",
+    "user":"j.morris",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"explorer.exe"
+  },
+  {
+    "timestamp":"2026-06-16T22:19:52.161903+00:00",
+    "event_id":1102,
+    "description":"Audit log cleared",
+    "severity":"critical",
+    "user":"admin",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"svchost.exe"
+  },
+  {
+    "timestamp":"2026-06-16T22:40:52.161903+00:00",
+    "event_id":1102,
+    "description":"Audit log cleared",
+    "severity":"critical",
+    "user":"a.singh",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"powershell.exe"
+  },
+  {
+    "timestamp":"2026-06-16T22:46:52.161903+00:00",
+    "event_id":4720,
+    "description":"User account created",
+    "severity":"high",
+    "user":"svc_backup",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"explorer.exe"
+  },
+  {
+    "timestamp":"2026-06-16T22:49:52.161903+00:00",
+    "event_id":4625,
+    "description":"Failed logon attempt",
+    "severity":"medium",
+    "user":"svc_backup",
+    "host":"DC-01",
+    "src_ip":"10.20.1.15",
+    "process":"explorer.exe"
+  },
+  {
+    "timestamp":"2026-06-16T23:07:52.161903+00:00",
+    "event_id":4624,
+    "description":"Successful logon",
+    "severity":"low",
+    "user":"guest",
+    "host":"DC-01",
+    "src_ip":"45.155.205.92",
+    "process":"svchost.exe"
+  },
+  {
+    "timestamp":"2026-06-16T23:10:52.161903+00:00",
+    "event_id":4720,
+    "description":"User account created",
+    "severity":"high",
+    "user":"svc_backup",
+    "host":"DC-01",
+    "src_ip":"45.155.205.92",
+    "process":"cmd.exe"
+  },
+  {
+    "timestamp":"2026-06-16T23:31:52.161903+00:00",
+    "event_id":4698,
+    "description":"Scheduled task created",
+    "severity":"high",
+    "user":"j.morris",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"cmd.exe"
+  },
+  {
+    "timestamp":"2026-06-16T23:34:52.161903+00:00",
+    "event_id":1102,
+    "description":"Audit log cleared",
+    "severity":"critical",
+    "user":"j.morris",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"powershell.exe"
+  },
+  {
+    "timestamp":"2026-06-16T23:37:52.161903+00:00",
+    "event_id":1102,
+    "description":"Audit log cleared",
+    "severity":"critical",
+    "user":"svc_backup",
+    "host":"DC-01",
+    "src_ip":"10.20.1.15",
+    "process":"powershell.exe"
+  },
+  {
+    "timestamp":"2026-06-17T00:13:52.161903+00:00",
+    "event_id":1102,
+    "description":"Audit log cleared",
+    "severity":"critical",
+    "user":"svc_backup",
+    "host":"DC-01",
+    "src_ip":"10.20.5.41",
+    "process":"explorer.exe"
+  },
+  {
+    "timestamp":"2026-06-17T00:25:52.161903+00:00",
+    "event_id":4625,
+    "description":"Failed logon attempt",
+    "severity":"medium",
+    "user":"a.singh",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"powershell.exe"
+  },
+  {
+    "timestamp":"2026-06-17T00:34:52.161903+00:00",
+    "event_id":4625,
+    "description":"Failed logon attempt",
+    "severity":"medium",
+    "user":"j.morris",
+    "host":"DC-01",
+    "src_ip":"45.155.205.92",
+    "process":"explorer.exe"
+  },
+  {
+    "timestamp":"2026-06-17T00:49:52.161903+00:00",
+    "event_id":4688,
+    "description":"Process created",
+    "severity":"low",
+    "user":"j.morris",
+    "host":"DC-01",
+    "src_ip":"10.20.1.15",
+    "process":"svchost.exe"
+  },
+  {
+    "timestamp":"2026-06-17T00:52:52.161903+00:00",
+    "event_id":4720,
+    "description":"User account created",
+    "severity":"high",
+    "user":"j.morris",
+    "host":"DC-01",
+    "src_ip":"45.155.205.92",
+    "process":"svchost.exe"
+  },
+  {
+    "timestamp":"2026-06-17T01:04:52.161903+00:00",
+    "event_id":4624,
+    "description":"Successful logon",
+    "severity":"low",
+    "user":"admin",
+    "host":"DC-01",
+    "src_ip":"10.20.5.41",
+    "process":"explorer.exe"
+  },
+  {
+    "timestamp":"2026-06-17T01:13:52.161903+00:00",
+    "event_id":4625,
+    "description":"Failed logon attempt",
+    "severity":"medium",
+    "user":"a.singh",
+    "host":"DC-01",
+    "src_ip":"10.20.1.15",
+    "process":"cmd.exe"
+  },
+  {
+    "timestamp":"2026-06-17T01:16:52.161903+00:00",
+    "event_id":4720,
+    "description":"User account created",
+    "severity":"high",
+    "user":"a.singh",
+    "host":"DC-01",
+    "src_ip":"10.20.1.15",
+    "process":"explorer.exe"
+  },
+  {
+    "timestamp":"2026-06-17T01:19:52.161903+00:00",
+    "event_id":4698,
+    "description":"Scheduled task created",
+    "severity":"high",
+    "user":"a.singh",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"svchost.exe"
+  },
+  {
+    "timestamp":"2026-06-17T01:25:52.161903+00:00",
+    "event_id":4625,
+    "description":"Failed logon attempt",
+    "severity":"medium",
+    "user":"admin",
+    "host":"DC-01",
+    "src_ip":"10.20.5.41",
+    "process":"cmd.exe"
+  },
+  {
+    "timestamp":"2026-06-17T01:28:52.161903+00:00",
+    "event_id":4625,
+    "description":"Failed logon attempt",
+    "severity":"medium",
+    "user":"svc_backup",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"cmd.exe"
+  },
+  {
+    "timestamp":"2026-06-17T01:34:52.161903+00:00",
+    "event_id":4625,
+    "description":"Failed logon attempt",
+    "severity":"medium",
+    "user":"a.singh",
+    "host":"DC-01",
+    "src_ip":"10.20.1.15",
+    "process":"svchost.exe"
+  },
+  {
+    "timestamp":"2026-06-17T01:43:52.161903+00:00",
+    "event_id":1102,
+    "description":"Audit log cleared",
+    "severity":"critical",
+    "user":"a.singh",
+    "host":"DC-01",
+    "src_ip":"45.155.205.92",
+    "process":"cmd.exe"
+  },
+  {
+    "timestamp":"2026-06-17T01:46:52.161903+00:00",
+    "event_id":1102,
+    "description":"Audit log cleared",
+    "severity":"critical",
+    "user":"j.morris",
+    "host":"DC-01",
+    "src_ip":"45.155.205.92",
+    "process":"svchost.exe"
+  },
+  {
+    "timestamp":"2026-06-17T01:49:52.161903+00:00",
+    "event_id":4625,
+    "description":"Failed logon attempt",
+    "severity":"medium",
+    "user":"guest",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"cmd.exe"
+  },
+  {
+    "timestamp":"2026-06-17T02:46:52.161903+00:00",
+    "event_id":4688,
+    "description":"Process created",
+    "severity":"low",
+    "user":"j.morris",
+    "host":"DC-01",
+    "src_ip":"10.20.5.41",
+    "process":"explorer.exe"
+  },
+  {
+    "timestamp":"2026-06-17T02:58:52.161903+00:00",
+    "event_id":4688,
+    "description":"Process created",
+    "severity":"low",
+    "user":"guest",
+    "host":"DC-01",
+    "src_ip":"10.20.5.41",
+    "process":"cmd.exe"
+  },
+  {
+    "timestamp":"2026-06-17T03:43:52.161903+00:00",
+    "event_id":4624,
+    "description":"Successful logon",
+    "severity":"low",
+    "user":"admin",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"cmd.exe"
+  },
+  {
+    "timestamp":"2026-06-17T03:46:52.161903+00:00",
+    "event_id":4624,
+    "description":"Successful logon",
+    "severity":"low",
+    "user":"guest",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"svchost.exe"
+  },
+  {
+    "timestamp":"2026-06-17T03:49:52.161903+00:00",
+    "event_id":4625,
+    "description":"Failed logon attempt",
+    "severity":"medium",
+    "user":"a.singh",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"explorer.exe"
+  },
+  {
+    "timestamp":"2026-06-17T03:55:52.161903+00:00",
+    "event_id":4625,
+    "description":"Failed logon attempt",
+    "severity":"medium",
+    "user":"svc_backup",
+    "host":"DC-01",
+    "src_ip":"10.20.1.15",
+    "process":"svchost.exe"
+  },
+  {
+    "timestamp":"2026-06-17T04:10:52.161903+00:00",
+    "event_id":4720,
+    "description":"User account created",
+    "severity":"high",
+    "user":"svc_backup",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"powershell.exe"
+  },
+  {
+    "timestamp":"2026-06-17T04:13:52.161903+00:00",
+    "event_id":4688,
+    "description":"Process created",
+    "severity":"low",
+    "user":"admin",
+    "host":"DC-01",
+    "src_ip":"10.20.5.41",
+    "process":"explorer.exe"
+  },
+  {
+    "timestamp":"2026-06-17T04:19:52.161903+00:00",
+    "event_id":4624,
+    "description":"Successful logon",
+    "severity":"low",
+    "user":"j.morris",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"svchost.exe"
+  },
+  {
+    "timestamp":"2026-06-17T04:22:52.161903+00:00",
+    "event_id":1102,
+    "description":"Audit log cleared",
+    "severity":"critical",
+    "user":"a.singh",
+    "host":"DC-01",
+    "src_ip":"10.20.1.15",
+    "process":"svchost.exe"
+  },
+  {
+    "timestamp":"2026-06-17T04:25:52.161903+00:00",
+    "event_id":4625,
+    "description":"Failed logon attempt",
+    "severity":"medium",
+    "user":"admin",
+    "host":"DC-01",
+    "src_ip":"10.20.1.15",
+    "process":"cmd.exe"
+  },
+  {
+    "timestamp":"2026-06-17T04:28:52.161903+00:00",
+    "event_id":4720,
+    "description":"User account created",
+    "severity":"high",
+    "user":"j.morris",
+    "host":"DC-01",
+    "src_ip":"10.20.1.15",
+    "process":"svchost.exe"
+  },
+  {
+    "timestamp":"2026-06-17T04:37:52.161903+00:00",
+    "event_id":4688,
+    "description":"Process created",
+    "severity":"low",
+    "user":"guest",
+    "host":"DC-01",
+    "src_ip":"10.20.5.41",
+    "process":"explorer.exe"
+  },
+  {
+    "timestamp":"2026-06-17T04:40:52.161903+00:00",
+    "event_id":4688,
+    "description":"Process created",
+    "severity":"low",
+    "user":"admin",
+    "host":"DC-01",
+    "src_ip":"45.155.205.92",
+    "process":"svchost.exe"
+  },
+  {
+    "timestamp":"2026-06-17T04:58:52.161903+00:00",
+    "event_id":4720,
+    "description":"User account created",
+    "severity":"high",
+    "user":"j.morris",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"svchost.exe"
+  },
+  {
+    "timestamp":"2026-06-17T05:13:52.161903+00:00",
+    "event_id":4688,
+    "description":"Process created",
+    "severity":"low",
+    "user":"guest",
+    "host":"DC-01",
+    "src_ip":"45.155.205.92",
+    "process":"powershell.exe"
+  },
+  {
+    "timestamp":"2026-06-17T05:16:52.161903+00:00",
+    "event_id":4698,
+    "description":"Scheduled task created",
+    "severity":"high",
+    "user":"svc_backup",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"cmd.exe"
+  },
+  {
+    "timestamp":"2026-06-17T05:19:52.161903+00:00",
+    "event_id":4698,
+    "description":"Scheduled task created",
+    "severity":"high",
+    "user":"guest",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"explorer.exe"
+  },
+  {
+    "timestamp":"2026-06-17T05:22:52.161903+00:00",
+    "event_id":4698,
+    "description":"Scheduled task created",
+    "severity":"high",
+    "user":"a.singh",
+    "host":"DC-01",
+    "src_ip":"10.20.5.41",
+    "process":"cmd.exe"
+  },
+  {
+    "timestamp":"2026-06-17T05:46:52.161903+00:00",
+    "event_id":4698,
+    "description":"Scheduled task created",
+    "severity":"high",
+    "user":"j.morris",
+    "host":"DC-01",
+    "src_ip":"45.155.205.92",
+    "process":"powershell.exe"
+  },
+  {
+    "timestamp":"2026-06-17T06:19:52.161903+00:00",
+    "event_id":1102,
+    "description":"Audit log cleared",
+    "severity":"critical",
+    "user":"admin",
+    "host":"DC-01",
+    "src_ip":"45.155.205.92",
+    "process":"cmd.exe"
+  },
+  {
+    "timestamp":"2026-06-17T06:25:52.161903+00:00",
+    "event_id":4624,
+    "description":"Successful logon",
+    "severity":"low",
+    "user":"j.morris",
+    "host":"DC-01",
+    "src_ip":"45.155.205.92",
+    "process":"powershell.exe"
+  },
+  {
+    "timestamp":"2026-06-17T06:49:52.161903+00:00",
+    "event_id":4625,
+    "description":"Failed logon attempt",
+    "severity":"medium",
+    "user":"j.morris",
+    "host":"DC-01",
+    "src_ip":"10.20.5.41",
+    "process":"svchost.exe"
+  },
+  {
+    "timestamp":"2026-06-17T06:55:52.161903+00:00",
+    "event_id":1102,
+    "description":"Audit log cleared",
+    "severity":"critical",
+    "user":"a.singh",
+    "host":"DC-01",
+    "src_ip":"10.20.5.41",
+    "process":"powershell.exe"
+  },
+  {
+    "timestamp":"2026-06-17T07:10:52.161903+00:00",
+    "event_id":4698,
+    "description":"Scheduled task created",
+    "severity":"high",
+    "user":"svc_backup",
+    "host":"DC-01",
+    "src_ip":"10.20.5.41",
+    "process":"cmd.exe"
+  },
+  {
+    "timestamp":"2026-06-17T07:13:52.161903+00:00",
+    "event_id":4624,
+    "description":"Successful logon",
+    "severity":"low",
+    "user":"svc_backup",
+    "host":"DC-01",
+    "src_ip":"10.20.5.41",
+    "process":"powershell.exe"
+  },
+  {
+    "timestamp":"2026-06-17T07:22:52.161903+00:00",
+    "event_id":4698,
+    "description":"Scheduled task created",
+    "severity":"high",
+    "user":"j.morris",
+    "host":"DC-01",
+    "src_ip":"45.155.205.92",
+    "process":"cmd.exe"
+  },
+  {
+    "timestamp":"2026-06-17T07:40:52.161903+00:00",
+    "event_id":4698,
+    "description":"Scheduled task created",
+    "severity":"high",
+    "user":"guest",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"cmd.exe"
+  },
+  {
+    "timestamp":"2026-06-17T07:52:52.161903+00:00",
+    "event_id":4688,
+    "description":"Process created",
+    "severity":"low",
+    "user":"a.singh",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"powershell.exe"
+  },
+  {
+    "timestamp":"2026-06-17T07:58:52.161903+00:00",
+    "event_id":4720,
+    "description":"User account created",
+    "severity":"high",
+    "user":"a.singh",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"powershell.exe"
+  },
+  {
+    "timestamp":"2026-06-17T08:31:52.161903+00:00",
+    "event_id":4624,
+    "description":"Successful logon",
+    "severity":"low",
+    "user":"a.singh",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"cmd.exe"
+  },
+  {
+    "timestamp":"2026-06-17T08:55:52.161903+00:00",
+    "event_id":1102,
+    "description":"Audit log cleared",
+    "severity":"critical",
+    "user":"admin",
+    "host":"DC-01",
+    "src_ip":"45.155.205.92",
+    "process":"explorer.exe"
+  },
+  {
+    "timestamp":"2026-06-17T08:58:52.161903+00:00",
+    "event_id":4720,
+    "description":"User account created",
+    "severity":"high",
+    "user":"j.morris",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"cmd.exe"
+  },
+  {
+    "timestamp":"2026-06-17T09:04:52.161903+00:00",
+    "event_id":4698,
+    "description":"Scheduled task created",
+    "severity":"high",
+    "user":"guest",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"cmd.exe"
+  },
+  {
+    "timestamp":"2026-06-17T09:19:52.161903+00:00",
+    "event_id":4625,
+    "description":"Failed logon attempt",
+    "severity":"medium",
+    "user":"admin",
+    "host":"DC-01",
+    "src_ip":"10.20.5.41",
+    "process":"explorer.exe"
+  },
+  {
+    "timestamp":"2026-06-17T09:22:52.161903+00:00",
+    "event_id":4698,
+    "description":"Scheduled task created",
+    "severity":"high",
+    "user":"a.singh",
+    "host":"DC-01",
+    "src_ip":"10.20.1.15",
+    "process":"explorer.exe"
+  },
+  {
+    "timestamp":"2026-06-17T09:37:52.161903+00:00",
+    "event_id":4625,
+    "description":"Failed logon attempt",
+    "severity":"medium",
+    "user":"guest",
+    "host":"DC-01",
+    "src_ip":"10.20.5.41",
+    "process":"cmd.exe"
+  },
+  {
+    "timestamp":"2026-06-17T09:43:52.161903+00:00",
+    "event_id":1102,
+    "description":"Audit log cleared",
+    "severity":"critical",
+    "user":"svc_backup",
+    "host":"DC-01",
+    "src_ip":"10.20.5.41",
+    "process":"explorer.exe"
+  },
+  {
+    "timestamp":"2026-06-17T09:49:52.161903+00:00",
+    "event_id":4625,
+    "description":"Failed logon attempt",
+    "severity":"medium",
+    "user":"j.morris",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"svchost.exe"
+  },
+  {
+    "timestamp":"2026-06-17T09:55:52.161903+00:00",
+    "event_id":4720,
+    "description":"User account created",
+    "severity":"high",
+    "user":"guest",
+    "host":"DC-01",
+    "src_ip":"45.155.205.92",
+    "process":"powershell.exe"
+  },
+  {
+    "timestamp":"2026-06-17T10:10:52.161903+00:00",
+    "event_id":4698,
+    "description":"Scheduled task created",
+    "severity":"high",
+    "user":"guest",
+    "host":"DC-01",
+    "src_ip":"10.20.1.15",
+    "process":"svchost.exe"
+  },
+  {
+    "timestamp":"2026-06-17T10:22:52.161903+00:00",
+    "event_id":4625,
+    "description":"Failed logon attempt",
+    "severity":"medium",
+    "user":"a.singh",
+    "host":"DC-01",
+    "src_ip":"45.155.205.92",
+    "process":"explorer.exe"
+  },
+  {
+    "timestamp":"2026-06-17T10:25:52.161903+00:00",
+    "event_id":4624,
+    "description":"Successful logon",
+    "severity":"low",
+    "user":"guest",
+    "host":"DC-01",
+    "src_ip":"10.20.1.15",
+    "process":"cmd.exe"
+  },
+  {
+    "timestamp":"2026-06-17T10:28:52.161903+00:00",
+    "event_id":4720,
+    "description":"User account created",
+    "severity":"high",
+    "user":"svc_backup",
+    "host":"DC-01",
+    "src_ip":"10.20.1.15",
+    "process":"explorer.exe"
+  },
+  {
+    "timestamp":"2026-06-17T10:31:52.161903+00:00",
+    "event_id":4688,
+    "description":"Process created",
+    "severity":"low",
+    "user":"admin",
+    "host":"DC-01",
+    "src_ip":"10.20.5.41",
+    "process":"powershell.exe"
+  },
+  {
+    "timestamp":"2026-06-17T11:04:52.161903+00:00",
+    "event_id":4688,
+    "description":"Process created",
+    "severity":"low",
+    "user":"svc_backup",
+    "host":"DC-01",
+    "src_ip":"10.20.5.41",
+    "process":"explorer.exe"
+  },
+  {
+    "timestamp":"2026-06-17T11:07:52.161903+00:00",
+    "event_id":4688,
+    "description":"Process created",
+    "severity":"low",
+    "user":"admin",
+    "host":"DC-01",
+    "src_ip":"10.20.1.15",
+    "process":"svchost.exe"
+  },
+  {
+    "timestamp":"2026-06-17T11:10:52.161903+00:00",
+    "event_id":1102,
+    "description":"Audit log cleared",
+    "severity":"critical",
+    "user":"svc_backup",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"powershell.exe"
+  },
+  {
+    "timestamp":"2026-06-17T11:22:52.161903+00:00",
+    "event_id":1102,
+    "description":"Audit log cleared",
+    "severity":"critical",
+    "user":"j.morris",
+    "host":"DC-01",
+    "src_ip":"10.20.1.15",
+    "process":"cmd.exe"
+  },
+  {
+    "timestamp":"2026-06-17T11:49:52.161903+00:00",
+    "event_id":4624,
+    "description":"Successful logon",
+    "severity":"low",
+    "user":"admin",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"explorer.exe"
+  },
+  {
+    "timestamp":"2026-06-17T12:01:52.161903+00:00",
+    "event_id":4688,
+    "description":"Process created",
+    "severity":"low",
+    "user":"j.morris",
+    "host":"DC-01",
+    "src_ip":"45.155.205.92",
+    "process":"cmd.exe"
+  },
+  {
+    "timestamp":"2026-06-17T12:04:52.161903+00:00",
+    "event_id":4625,
+    "description":"Failed logon attempt",
+    "severity":"medium",
+    "user":"admin",
+    "host":"DC-01",
+    "src_ip":"10.20.1.15",
+    "process":"cmd.exe"
+  },
+  {
+    "timestamp":"2026-06-17T12:10:52.161903+00:00",
+    "event_id":1102,
+    "description":"Audit log cleared",
+    "severity":"critical",
+    "user":"guest",
+    "host":"DC-01",
+    "src_ip":"10.20.1.15",
+    "process":"explorer.exe"
+  },
+  {
+    "timestamp":"2026-06-17T12:16:52.161903+00:00",
+    "event_id":4720,
+    "description":"User account created",
+    "severity":"high",
+    "user":"admin",
+    "host":"DC-01",
+    "src_ip":"10.20.5.41",
+    "process":"explorer.exe"
+  },
+  {
+    "timestamp":"2026-06-17T12:19:52.161903+00:00",
+    "event_id":4698,
+    "description":"Scheduled task created",
+    "severity":"high",
+    "user":"admin",
+    "host":"DC-01",
+    "src_ip":"10.20.5.41",
+    "process":"powershell.exe"
+  },
+  {
+    "timestamp":"2026-06-17T12:31:52.161903+00:00",
+    "event_id":1102,
+    "description":"Audit log cleared",
+    "severity":"critical",
+    "user":"j.morris",
+    "host":"DC-01",
+    "src_ip":"45.155.205.92",
+    "process":"svchost.exe"
+  },
+  {
+    "timestamp":"2026-06-17T12:52:52.161903+00:00",
+    "event_id":4720,
+    "description":"User account created",
+    "severity":"high",
+    "user":"admin",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"explorer.exe"
+  },
+  {
+    "timestamp":"2026-06-17T12:55:52.161903+00:00",
+    "event_id":4625,
+    "description":"Failed logon attempt",
+    "severity":"medium",
+    "user":"a.singh",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"explorer.exe"
+  },
+  {
+    "timestamp":"2026-06-17T13:16:52.161903+00:00",
+    "event_id":4625,
+    "description":"Failed logon attempt",
+    "severity":"medium",
+    "user":"guest",
+    "host":"DC-01",
+    "src_ip":"10.20.1.15",
+    "process":"powershell.exe"
+  },
+  {
+    "timestamp":"2026-06-17T13:19:52.161903+00:00",
+    "event_id":4698,
+    "description":"Scheduled task created",
+    "severity":"high",
+    "user":"a.singh",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"svchost.exe"
+  },
+  {
+    "timestamp":"2026-06-17T13:25:52.161903+00:00",
+    "event_id":4720,
+    "description":"User account created",
+    "severity":"high",
+    "user":"j.morris",
+    "host":"DC-01",
+    "src_ip":"10.20.1.15",
+    "process":"explorer.exe"
+  },
+  {
+    "timestamp":"2026-06-17T13:34:52.161903+00:00",
+    "event_id":4624,
+    "description":"Successful logon",
+    "severity":"low",
+    "user":"guest",
+    "host":"DC-01",
+    "src_ip":"10.20.1.15",
+    "process":"svchost.exe"
+  },
+  {
+    "timestamp":"2026-06-17T13:40:52.161903+00:00",
+    "event_id":4698,
+    "description":"Scheduled task created",
+    "severity":"high",
+    "user":"a.singh",
+    "host":"DC-01",
+    "src_ip":"45.155.205.92",
+    "process":"powershell.exe"
+  },
+  {
+    "timestamp":"2026-06-17T13:43:52.161903+00:00",
+    "event_id":4688,
+    "description":"Process created",
+    "severity":"low",
+    "user":"j.morris",
+    "host":"DC-01",
+    "src_ip":"10.20.1.15",
+    "process":"svchost.exe"
+  },
+  {
+    "timestamp":"2026-06-17T13:46:52.161903+00:00",
+    "event_id":1102,
+    "description":"Audit log cleared",
+    "severity":"critical",
+    "user":"guest",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"explorer.exe"
+  },
+  {
+    "timestamp":"2026-06-17T13:52:52.161903+00:00",
+    "event_id":4688,
+    "description":"Process created",
+    "severity":"low",
+    "user":"admin",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"svchost.exe"
+  },
+  {
+    "timestamp":"2026-06-17T14:01:52.161903+00:00",
+    "event_id":4624,
+    "description":"Successful logon",
+    "severity":"low",
+    "user":"guest",
+    "host":"DC-01",
+    "src_ip":"10.20.5.41",
+    "process":"powershell.exe"
+  },
+  {
+    "timestamp":"2026-06-17T14:04:52.161903+00:00",
+    "event_id":4698,
+    "description":"Scheduled task created",
+    "severity":"high",
+    "user":"a.singh",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"explorer.exe"
+  },
+  {
+    "timestamp":"2026-06-17T14:19:52.161903+00:00",
+    "event_id":4624,
+    "description":"Successful logon",
+    "severity":"low",
+    "user":"a.singh",
+    "host":"DC-01",
+    "src_ip":"10.20.1.15",
+    "process":"svchost.exe"
+  },
+  {
+    "timestamp":"2026-06-17T14:22:52.161903+00:00",
+    "event_id":4698,
+    "description":"Scheduled task created",
+    "severity":"high",
+    "user":"guest",
+    "host":"DC-01",
+    "src_ip":"10.20.1.15",
+    "process":"explorer.exe"
+  },
+  {
+    "timestamp":"2026-06-17T14:25:52.161903+00:00",
+    "event_id":4624,
+    "description":"Successful logon",
+    "severity":"low",
+    "user":"j.morris",
+    "host":"DC-01",
+    "src_ip":"10.20.5.41",
+    "process":"svchost.exe"
+  },
+  {
+    "timestamp":"2026-06-17T14:49:52.161903+00:00",
+    "event_id":4720,
+    "description":"User account created",
+    "severity":"high",
+    "user":"admin",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"explorer.exe"
+  },
+  {
+    "timestamp":"2026-06-17T15:13:52.161903+00:00",
+    "event_id":1102,
+    "description":"Audit log cleared",
+    "severity":"critical",
+    "user":"admin",
+    "host":"DC-01",
+    "src_ip":"185.220.101.47",
+    "process":"explorer.exe"
+  },
+  {
+    "timestamp":"2026-06-17T15:55:52.161903+00:00",
+    "event_id":4624,
+    "description":"Successful logon",
+    "severity":"low",
+    "user":"j.morris",
+    "host":"DC-01",
+    "src_ip":"45.155.205.92",
+    "process":"svchost.exe"
+  },
+  {
+    "timestamp":"2026-06-17T16:07:52.161903+00:00",
+    "event_id":1102,
+    "description":"Audit log cleared",
+    "severity":"critical",
+    "user":"admin",
+    "host":"DC-01",
+    "src_ip":"45.155.205.92",
+    "process":"cmd.exe"
+  },
+  {
+    "timestamp":"2026-06-17T16:31:52.161903+00:00",
+    "event_id":1102,
+    "description":"Audit log cleared",
+    "severity":"critical",
+    "user":"admin",
+    "host":"DC-01",
+    "src_ip":"10.20.1.15",
+    "process":"explorer.exe"
+  },
+  {
+    "timestamp":"2026-06-17T17:28:52.161903+00:00",
+    "event_id":1102,
+    "description":"Audit log cleared",
+    "severity":"critical",
+    "user":"j.morris",
+    "host":"DC-01",
+    "src_ip":"10.20.1.15",
+    "process":"explorer.exe"
+  },
+  {
+    "timestamp":"2026-06-17T17:37:52.161903+00:00",
+    "event_id":4688,
+    "description":"Process created",
+    "severity":"low",
+    "user":"admin",
+    "host":"DC-01",
+    "src_ip":"10.20.1.15",
+    "process":"explorer.exe"
+  }
+]

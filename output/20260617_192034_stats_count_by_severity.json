@@ -1,0 +1,18 @@
+[
+  {
+    "severity":"high",
+    "count":161
+  },
+  {
+    "severity":"low",
+    "count":158
+  },
+  {
+    "severity":"critical",
+    "count":94
+  },
+  {
+    "severity":"medium",
+    "count":87
+  }
+]

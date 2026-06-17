@@ -1,0 +1,102 @@
+[
+  {
+    "timestamp":"2026-06-16T16:40:52.161903+00:00",
+    "event_id":4698,
+    "description":"Scheduled task created",
+    "severity":"high",
+    "user":"a.singh",
+    "host":"WKS-FIN-014",
+    "src_ip":"185.220.101.47",
+    "process":"powershell.exe"
+  },
+  {
+    "timestamp":"2026-06-16T16:43:52.161903+00:00",
+    "event_id":4688,
+    "description":"Process created",
+    "severity":"low",
+    "user":"admin",
+    "host":"WKS-HR-007",
+    "src_ip":"45.155.205.92",
+    "process":"svchost.exe"
+  },
+  {
+    "timestamp":"2026-06-16T16:46:52.161903+00:00",
+    "event_id":4720,
+    "description":"User account created",
+    "severity":"high",
+    "user":"admin",
+    "host":"DC-01",
+    "src_ip":"10.20.5.41",
+    "process":"cmd.exe"
+  },
+  {
+    "timestamp":"2026-06-16T16:49:52.161903+00:00",
+    "event_id":4625,
+    "description":"Failed logon attempt",
+    "severity":"medium",
+    "user":"j.morris",
+    "host":"WKS-HR-007",
+    "src_ip":"10.20.1.15",
+    "process":"svchost.exe"
+  },
+  {
+    "timestamp":"2026-06-16T16:52:52.161903+00:00",
+    "event_id":4720,
+    "description":"User account created",
+    "severity":"high",
+    "user":"a.singh",
+    "host":"SRV-DB-02",
+    "src_ip":"10.20.1.15",
+    "process":"cmd.exe"
+  },
+  {
+    "timestamp":"2026-06-16T16:55:52.161903+00:00",
+    "event_id":4720,
+    "description":"User account created",
+    "severity":"high",
+    "user":"svc_backup",
+    "host":"SRV-DB-02",
+    "src_ip":"45.155.205.92",
+    "process":"powershell.exe"
+  },
+  {
+    "timestamp":"2026-06-16T16:58:52.161903+00:00",
+    "event_id":4698,
+    "description":"Scheduled task created",
+    "severity":"high",
+    "user":"j.morris",
+    "host":"DC-01",
+    "src_ip":"10.20.1.15",
+    "process":"explorer.exe"
+  },
+  {
+    "timestamp":"2026-06-16T17:01:52.161903+00:00",
+    "event_id":1102,
+    "description":"Audit log cleared",
+    "severity":"critical",
+    "user":"guest",
+    "host":"SRV-DB-02",
+    "src_ip":"10.20.1.15",
+    "process":"cmd.exe"
+  },
+  {
+    "timestamp":"2026-06-16T17:04:52.161903+00:00",
+    "event_id":1102,
+    "description":"Audit log cleared",
+    "severity":"critical",
+    "user":"svc_backup",
+    "host":"WKS-HR-007",
+    "src_ip":"10.20.5.41",
+    "process":"cmd.exe"
+  },
+  {
+    "timestamp":"2026-06-16T17:07:52.161903+00:00",
+    "event_id":4688,
+    "description":"Process created",
+    "severity":"low",
+    "user":"svc_backup",
+    "host":"DC-01",
+    "src_ip":"10.20.5.41",
+    "process":"cmd.exe"
+  }
+]
