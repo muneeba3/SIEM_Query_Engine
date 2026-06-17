@@ -91,5 +91,4 @@ siem-query/
 ## Author
 
 Muneeba Sajjad — MSc Cyber Security, University of Hertfordshire
-GitHub: github.com/muneeba3"# SIEM-Log-Aggregation-with-SPL-style-Query-Engine" 
-"# SIEM-Log-Aggregation-with-SPL-style-Query-Engine" 
+
