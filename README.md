@@ -8,7 +8,7 @@ results to JSON for further analysis.
 
 ## Demo Results
 
-Running against 500 generated Windows Event Log entries:
+Running against 100 generated Windows Event Log entries:
 
 ```
 siem> stats count by severity
